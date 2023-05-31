@@ -1,8 +1,9 @@
 {
   "replace": false,
   "values": [
-    "terraconcretia:white_concrete_slab",
-    "terraconcretia:orange_concrete_slab"
+    "terraconcretia:magenta_concrete_slab",
+    "terraconcretia:orange_concrete_slab",
+    "terraconcretia:white_concrete_slab"
 
   ]
 }
