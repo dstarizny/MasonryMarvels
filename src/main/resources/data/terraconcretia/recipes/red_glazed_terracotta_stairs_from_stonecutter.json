@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:red_glazed_terracotta"
-    },
-    "result": "terraconcretia:red_glazed_terracotta_stairs",
-    "count": 1
-}

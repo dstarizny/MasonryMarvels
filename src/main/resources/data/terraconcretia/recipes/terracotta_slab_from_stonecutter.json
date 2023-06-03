@@ -1,8 +1,0 @@
-{
-    "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:terracotta"
-    },
-    "result": "terraconcretia:terracotta_slab",
-    "count": 2
-}
