@@ -12,6 +12,7 @@ import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
+//TODO : rename to ColorfulMasonry
 @Mod(TerraConcretia.MOD_ID)
 public class TerraConcretia {
     public static final String MOD_ID = "terraconcretia";
