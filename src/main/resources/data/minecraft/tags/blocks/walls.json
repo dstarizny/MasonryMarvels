@@ -1,6 +1,7 @@
 {
     "replace": false,
     "values": [
+        "terraconcretia:terracotta_wall",
         "terraconcretia:black_concrete_wall",
         "terraconcretia:black_glazed_terracotta_wall",
         "terraconcretia:black_terracotta_wall",
